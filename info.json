@@ -1,0 +1,10 @@
+{
+  "firmware": {
+    "ver": "16.0.2",
+    "url": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2016.0.2.zip",
+    "size": "340787200"
+  },
+  "keys": {
+    "url": "https://archive.org/download/prod.keys/16.x.x/prod.keys"
+  }
+}
